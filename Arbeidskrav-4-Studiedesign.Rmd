@@ -1,12 +1,13 @@
 ---
-title: "Arbeidskrav 4_Studiedesigne"
+title: "Arbeidskrav 4_Studiedesign"
 author: "Håvard Crantz Lorentzen"
-date: "12 11 2021"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 bibliography: references.bib
 ---
 
-Studie designe
+Studiedesign
 
 Studiespørsmål
 
@@ -102,7 +103,7 @@ effekt på bedret funksjonsevne [@turpela2017]. Schott et al. (2019) foreslår a
 
  
 
-Oppsummering:
+Tabell 1. Oppsummering av artiklene
 
 +--------------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
 | Studie             | Studiespørsmål                                                                           | Hypoteser                                                                         | Logikk                                                                         | Metode                                                                                    | Resultat                                                                          | Interferes                                                                              |
