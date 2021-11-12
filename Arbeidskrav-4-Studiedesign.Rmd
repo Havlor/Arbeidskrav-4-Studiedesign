@@ -12,118 +12,63 @@ Studiespørsmål
 
 I denne rapporten har jeg sett på fem ulike studier som indentifiserer
 problemet store deler av verden står ovenfor, eldrebølgen som er på vei. For å
-møte den på best mulig måte er det gunstig at eldre har god helse så lenge som
-mulig [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Alle fem studiene er ute etter å finne ut hvordan man som eldre kan
-trene på en måte de får best mulig effekt. Innenfor temaet styrketrening for
-eldre er det mange spørsmål som må stilles for å gi gode anbefalinger, som hvilke
-øvelser, repetisjoner, treningsfrekvens og hvordan treningen fungerer både
-fysiologisk, praktisk og mentalt. En oppsummering av studiene er vist i tabell
-1.
+møte den på best mulig måte er det gunstig at eldre har god helse så lenge som mulig . Alle fem studiene er ute etter å finne ut hvordan man som eldre kan trene på en måte de får best mulig effekt [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Innenfor temaet styrketrening for eldre er det mange spørsmål som må stilles for å gi gode anbefalinger, som hvilke øvelser, repetisjoner, treningsfrekvens og hvordan treningen fungerer både fysiologisk, praktisk og mentalt. En oppsummering av studiene er vist i tabell 1.
 
 I Fire av studiene var det konkrete spørsmål om hvordan treningen skal
-gjennomføres. I Schott et al. (2019) så de for eksempel på forskjellen det var for eldre å trene med styrketreningsapparater og frivektstrening. I studien til Geirsdottir et al. (2012) var det ikke spørsmål om hvordan man skal trene styrke, men
-hvilken effekt det er. Her var det hovedsakelig et spørreskjema om livskvalitet
-som lå til grunn, men de så også på den fysiologiske og praktiske
-framgangen man får av trening og hvordan det påvirket livskvaliteten .
+gjennomføres [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. I Schott et al. (2019) så de for eksempel på forskjellen det var for eldre å trene med styrketreningsapparater og frivektstrening. I studien til Geirsdottir et al. (2012) var det ikke spørsmål om hvordan man skal trene styrke, men hvilken effekt det er. Her var det hovedsakelig et spørreskjema om livskvalitet som lå til grunn, men de så også på den fysiologiske og praktiske
+framgangen man får av trening og hvordan det påvirket livskvaliteten [@geirsdottir2012] .
 
  
 
 Hypoteser
 
 Alle fem studiene var enige i sine hypoteser om at de trodde
-styrketreningen fungerte. De studiene (4/5) som sammenlignet grupper mot
-hverandre mente at de kunne finne et resultat i den ene gruppen som skilte seg
-fra den/de andre. Den siste studien som var fra Geirdottier et al. så på hvilke
-effekter hadde og hypnotiserte som at det i tillegg komt gav økt livskvalitet. Det
-var ingen av studiene som hadde en eksplisitt alternativ hypotese, men Turpen
-et al. (2017), som så på forskjell i treningsfrekvens, så for seg at det var vanskelig
-å se forskjell mellom gruppene da utrente ofte få god effekt uansett.
+styrketreningen fungerte [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. De studiene (4/5) som sammenlignet grupper mot hverandre mente at de kunne finne et resultat i den ene gruppen som skilte seg, fra den/de andre[@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Den siste studien som var fra Geirdottier et al. (2012), så på hvilke effekter styrketrening hadde, og hypnotiserte som de andre, men at det i tillegg komt gav økt livskvalitet. Det
+var ingen av studiene som hadde en eksplisitt alternativ hypotese, men Turpen et al. (2017), som så på forskjell i treningsfrekvens, så for seg at det var vanskelig å se forskjell mellom gruppene da utrente ofte få god effekt uansett.
 
  
 
 Logikk
 
 På bakgrunn av samtlige hypoteser vil studiene gi
-en styrke til den allerede etablerte anbefalingen om at eldre må trene styrke. I
-tillegg vil studiene gjøre det lettere å gi gode anbefalinger da de løser noen praktiske
-spørsmål. Vikeberg et al. (2019) foreslår at en enkel form for styrketrening
-som man kan gjøre hjemme gir den gunstige effekten av styrketrening. Dette vil
-da gjøre styrketreningseffekten er mulig å nå for alle, og ikke bare de som
-trener på treningssenter, som er lett å tenke.
+en styrke til den allerede etablerte anbefalingen om at eldre må trene styrke [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. I tillegg vil studiene gjøre det lettere å gi gode anbefalinger da de løser noen praktiske spørsmål [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Vikeberg et al. (2019) foreslår at en enkel form for styrketrening som man kan gjøre hjemme gir den gunstige effekten av styrketrening. Dette vil
+da gjøre styrketreningseffekten mer oppnålig å nå for alle, og ikke bare de som trener på treningssenter, som er lett å tenke [@vikberg2019].
 
  
 
 Metode
 
 Fire av studiene var RTC-studier
-hvor det var en, to eller tre intervensjonsgrupper og en kontrollgruppe. Hvem som
-var i hvilke grupper, ble randomisert tilfeldig og med unntak av Vincent et al.
-(2002) ble antallet i gruppene ca. likt fordelt i intervensjon og kontroll. Ca.
+hvor det var en, to eller tre intervensjonsgrupper og en kontrollgruppe [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Hvem som
+var i hvilke grupper, ble randomisert tilfeldig. Antallet i gruppene var ca. likt fordelt i intervensjon og kontroll med unntak av Vincent et al. (2002). Ca.
 likt vil si at det stort sett var fler i de gruppene det krevde mest av, men man
 så også at det var der det var mest frafall, så ved studieslutt var det så å si
-utlignet. I Vincent et al. (2002) var det større forskjell på kontroll og
-intervensjon (16 i kontroll, 24 og 22 i intervensjon) uten at det blir opplyst noen
-grunn til det. Å ha en blokkrandomisering som de tre andre nevnt over ville
-gitt studien et styrket design (boka, side 146). På den andre siden skulle tro
+utlignet [ @schott2019; @turpela2017; @vikberg2019]. I Vincent et al. (2002) var det større forskjell på kontroll og intervensjon (16 i kontroll, 24 og 22 i intervensjon) uten at det blir opplyst noen grunn til det. Å ha en blokkrandomisering som de tre andre nevnt over, ville gitt studien et styrket design [@hulley2013, s. 146]. På den andre siden skulle man tro
 at Vincent et al. (2002) hadde en mer attraktiv studie for deltagerne da de
 flere får gratis hjelp til å komme i gang med trening.
 
 Da dette er studier som ser
-på trening er «blinding» vanskelig, dermed nevnte studiene heller ikke noe om
-det. Det er likevel gunstig for å sikre forskingsfusk at det er forskjellig
-forsingspersonell som gjør tester og følger opp trening (boka side 148-149).
+på trening er «blinding» vanskelig, dermed nevnte studiene heller ikke noe om dette [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Det er likevel gunstig for å sikre forskingsfusk at det er forskjellig forsingspersonell som gjør tester og følger opp trening [@hulley2013, s. 148-149].
 
-Geirsdottir et al. (2012) var en klinisk studie uten kontrollgruppe, de hadde altså en stor
-gruppe (265 kvinner og menn) som trente samme styrketreningsprogrammet. At de
-ikke hadde kontrollgruppe innrømmet studiegruppen selv at var en svakhet, men
-de poengterte at eldre mennesker ikke kan forvente en økning i styrke, muskelmasse
-og muskelfunksjon uten å trene og sånn sett mente de at det var nok å
-sammenligne med testresultat ved start. Det er mulig å forstå argumentasjonen
-til Geirsdottir et al (2012) når de i tillegg har såpass mange deltagere som de
-har. Samtidig hadde en definert kontrollgruppe gjort studien sterkere som en
-studie som skulle finne ut av noe (boka side 87). Studien vil gå under kategorien
-Case-serie som er mer egnet til å se på karakteristika og i denne sammenhengen
-av styrketrening på eldre(boka side 87). Noe de også i en viss grad gjorde når resultatet
-av spørreskjema om livskvalitet var noe av det viktigste. Denne karakteristikk-egenskapen
+Geirsdottir et al. (2012) var en klinisk studie uten kontrollgruppe, de hadde altså en stor gruppe (265 kvinner og menn) som trente samme styrketreningsprogrammet. At de ikke hadde kontrollgruppe innrømmet studiegruppen selv at var en svakhet [@geirsdottir2012]. Samtidig poengterte de at eldre mennesker ikke kan forvente en økning i styrke, muskelmasse og muskelfunksjon uten å trene og sånn sett mente de at det var nok å sammenligne med testresultat ved start [@geirsdottir2012]. Det er mulig å forstå argumentasjonen til Geirsdottir et al. (2012) når de i tillegg har såpass mange deltagere som de har. Samtidig hadde en definert kontrollgruppe gjort studien sterkere som en studie som skulle finne ut av noe [@hulley2013, s. 87]. Studien vil gå under kategorien
+Case-serie som er mer egnet til å se på karakteristika og i denne sammenhengenav styrketrening på eldre [@hulley2013, s. 87]. Noe de også i en viss grad gjorde når resultatet av spørreskjema om livskvalitet var noe av det viktigste [@geirsdottir2012]. Denne karakteristikk-egenskapen
 studien hadde kunne nok kommet bedre frem.
 
 Populasjonen som er ønsket å treffe er eldre kvinner
-og menn som var relativt friske. Ingen av studiene har en eksplisitt definisjon
-av «eldre», men totalt i studiene var det et aldersspenn på 60-92 og
-gjennomsnittsalderen i de forskjellige studiene var rundt 70år (flest rett
-under). Den eldre befolkningen er en svært heterogen gruppe, noe som gjør det vanskelig
-med ekskluderingskriterier. Studiene godtok da det som ble definert som milde
-sykdommer som ikke påvirker treningen. Unntaket er til en viss grad Vikberg et al. (2019) hvor det ikke var andre enn at de måtte
-ikke måtte ha sarkopeni. Samtidig kan det tyde på at det var relativt god helse
-blant deltageren da de alle var 70 år, ikke sarkopeni og klarete å gjennomføre
-treningen (Vikberg et al., 2019). Totalt sett treffer studiene godt
-på populasjonen da alle har et høyt antall deltagere og har kvalifikasjonskriterier
-som gjør det mulig for «vanlig» eldre folk å være med.
+og menn som var relativt friske [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Ingen av studiene har en eksplisitt definisjon av «eldre», men totalt i studiene var det et aldersspenn på 60-92 og gjennomsnittsalderen i de forskjellige studiene var rundt 70år (flest rett under) [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Den eldre befolkningen er en svært heterogen gruppe, noe som gjør det vanskelig med ekskluderingskriterier. Studiene godtok da det som ble definert som milde sykdommer som ikke påvirker treningen. Unntaket er til en viss grad Vikberg et al. (2019) hvor det ikke var andre inklusjonskretierier enn at de ikke måtte ha sarkopeni. Samtidig kan det tyde på at det var relativt god helse blant deltagerene da de alle var 70 år, ikke hadde sarkopeni og klarete å gjennomføre treningen [@vikberg2019]. Totalt sett treffer studiene godt på populasjonen da alle har et høyt antall deltagere og har kvalifikasjonskriterier som gjør det mulig for «vanlig» eldre folk å være med [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
 
-Rekruteringen av deltagere
-ble i noen tilfeller gjort ved hjelp av brev og annonser med unntak av scott et
-al. Som hentet deltagere fra en treningsgruppe som var etablert på studiestedet.
-Felles for alle studiene var at det va en frivillig deltagelse. Scott et al. og
-vincent et al. sa utrykte et krav om at det måtte være statistisk styrke på 80%.
-Scott et al. gjorde også et estimat hvor de så at det var behov for 26
+Rekruteringen av deltagere ble gjort ved hjelp av brev og annonser med unntak av Schott et
+al. (2019) [@geirsdottir2012; @turpela2017; @vikberg2019; @vincent2002]. Han hentet deltagere fra en treningsgruppe som var etablert på studiestedet [@schott2019].
+Felles for alle studiene var at det va en frivillig deltagelse [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Schott et al. (2019) og Vincent et al. (2002) utrykte et krav om at det måtte være statistisk styrke på 80%.
+Schott et al. (2019) gjorde også et estimat hvor de så at det var behov for 26
 deltagere for å se en signifikant forskjell ved signifikantgrense på 5% når de
-godtok en sannsynlighet på 80% (de inkluderte 32 personer). De andre studiene
-nevnte ikke noe om statistisk styrke, men basert på antall deltagere skulle man
-tro at den statistiske styrken også var god der.
+godtok en sannsynlighet på 80% (de inkluderte 32 personer). De andre studiene nevnte ikke noe om statistisk styrke, men basert på antall deltagere skulle man tro at den statistiske styrken også var god der [@geirsdottir2012; @turpela2017; @vikberg2019].
 
 Alle fem studiene hadde pre-post-design
-hvor Scott et al. også i tillegg hadde tester i uke 10/26 og 6 uker etter post-testen
-i uke 26. I alle studiene ble det gjort idrettsfysiologiskse tester av styrke, men
-også funksjonelle (gå test, gripe test osv.). Geridottir la som nevnt også en
-del vekt på spørreskjema som ble gitt før og etter intervensjon. Scott et al.
-hadde også et spørreskjema, men dette ble bare gitt etter og var en evaluering
-av treningen.  Treningen som ble gjennomført
-av intervensjonsgruppene ble gjort på treningssenter eller treningslokale på studiestedet.
-Vincent et al. fikk deltagerne til å sende inn treningsdagbøker for hver økt
-som det det ble gitt tilbakemelding på. I de fire andre studiene var det trenere
-eller med kvalifisert kurs eller utdanning som veiledet deltagerne igjennom
-økten. Kontrollgruppen ble instruert i å leve som vanlig og ikke trene.
-Treningsperiodene var fra 10 uker til 26 uker.
+hvor Scott et al. også i tillegg hadde tester i uke 10/26 og 6 uker etter post-testen i uke 26 [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. I alle studiene ble det gjort idrettsfysiologiskse tester av styrke, men også funksjonelle (gå test, gripe test osv.) [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Geridottir et al. (2012) la som nevnt også en
+del vekt på spørreskjema som ble gitt før og etter intervensjon. Scott et al. (2019) hadde også et spørreskjema, men dette ble bare gitt etter og var en evaluering av treningen. Treningen som ble gjennomført
+av intervensjonsgruppene ble gjort på treningssenter eller treningslokale på studiestedet [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
+Vincent et al. (2002) fikk deltagerne til å sende inn treningsdagbøker for hver økt som det det ble gitt tilbakemelding på. I de fire andre studiene var det trenere eller med kvalifisert kurs eller utdanning som veiledet deltagerne igjennom økten [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019]. Kontrollgruppen ble instruert i å leve som vanlig og ikke trene [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Treningsperiodene var fra 10 uker til 26 uker [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
 
 Studiene hadde som nevnt som
 mål å finne ut hvordan eldre bør trene og hvilke effekter det er av styrketrening.
