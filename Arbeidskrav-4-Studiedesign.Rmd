@@ -1,164 +1,661 @@
 ---
-title: "Arbeidskrav 4_Studiedesign"
+title: "Arbeidskrav 4 Studiedesign"
 author: "Håvard Crantz Lorentzen"
 output:
   word_document: default
   html_document: default
 bibliography: references.bib
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-Studiedesign
+## Studiespørsmål
 
-Studiespørsmål
+<!-- Se over denne settningen, muligens kan den være litt mer konkret og poenget (healthy aging?) kan presenteres i første settning.  -->
 
 I denne rapporten har jeg sett på fem ulike studier som indentifiserer
-problemet store deler av verden står ovenfor, eldrebølgen som er på vei. For å
-møte den på best mulig måte er det gunstig at eldre har god helse så lenge som mulig . Alle fem studiene er ute etter å finne ut hvordan man som eldre kan trene på en måte de får best mulig effekt [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Innenfor temaet styrketrening for eldre er det mange spørsmål som må stilles for å gi gode anbefalinger, som hvilke øvelser, repetisjoner, treningsfrekvens og hvordan treningen fungerer både fysiologisk, praktisk og mentalt. En oppsummering av studiene er vist i tabell 1.
+problemet store deler av verden står ovenfor, eldrebølgen som er på vei.
+For å møte den på best mulig måte er det gunstig at eldre har god helse
+så lenge som mulig. <!-- Se over denne settningen -->Alle fem studiene
+er ute etter å finne ut hvordan man som eldre kan trene på en måte de
+får best mulig effekt [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Innenfor temaet styrketrening for eldre er
+det mange spørsmål som må stilles for å gi gode
+anbefalinger<!-- Anbefalninger for hva? -->, som hvilke øvelser,
+repetisjoner, treningsfrekvens og hvordan treningen fungerer både
+fysiologisk, praktisk og mentalt. En oppsummering av studiene er vist i
+tabell 1.
 
-I Fire av studiene var det konkrete spørsmål om hvordan treningen skal
-gjennomføres [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. I Schott et al. (2019) så de for eksempel på forskjellen det var for eldre å trene med styrketreningsapparater og frivektstrening. I studien til Geirsdottir et al. (2012) var det ikke spørsmål om hvordan man skal trene styrke, men hvilken effekt det er. Her var det hovedsakelig et spørreskjema om livskvalitet som lå til grunn, men de så også på den fysiologiske og praktiske
-framgangen man får av trening og hvordan det påvirket livskvaliteten [@geirsdottir2012] .
+I fire av studiene var det konkrete spørsmål om hvordan treningen skal
+gjennomføres [@schott2019; @turpela2017; @vikberg2019; @vincent2002].
+<!-- Se over denne settningen -->I Schott et al. (2019) så de for
+eksempel på <!-- Se over denne settningen -->forskjellen det var for
+eldre å trene med styrketreningsapparater og frivektstrening. I studien
+til Geirsdottir et al. (2012) var det ikke spørsmål om hvordan man skal
+trene styrke, men hvilken effekt det er. Her var det hovedsakelig et
+spørreskjema om livskvalitet som lå til
+grunn<!-- Som lå til grunn for hva? -->, men de så også på den
+fysiologiske og praktiske framgangen man får av trening og hvordan det
+påvirket livskvaliteten [@geirsdottir2012] .
 
- 
-
-Hypoteser
+## Hypoteser
 
 Alle fem studiene var enige i sine hypoteser om at de trodde
-styrketreningen fungerte [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. De studiene (4/5) som sammenlignet grupper mot hverandre mente at de kunne finne et resultat i den ene gruppen som skilte seg, fra den/de andre[@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Den siste studien som var fra Geirdottier et al. (2012), så på hvilke effekter styrketrening hadde, og hypnotiserte som de andre, men at det i tillegg komt gav økt livskvalitet. Det
-var ingen av studiene som hadde en eksplisitt alternativ hypotese, men Turpen et al. (2017), som så på forskjell i treningsfrekvens, så for seg at det var vanskelig å se forskjell mellom gruppene da utrente ofte få god effekt uansett.
+styrketreningen fungerte [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. De studiene (4/5) som sammenlignet grupper
+mot hverandre mente at de kunne finne et resultat i den ene gruppen som
+skilte seg, fra den/de andre[@schott2019; @turpela2017; @vikberg2019;
+@vincent2002]. Den siste studien som var fra Geirdottier et al. (2012),
+så på hvilke effekter styrketrening hadde, og
+hypnotiserte<!-- Håper de ikke hypnotiserte de eldre! --> som de andre,
+men at det i tillegg komt gav økt livskvalitet. Det var ingen av
+studiene som hadde en eksplisitt alternativ hypotese, men Turpen et al.
+(2017), som så på forskjell i treningsfrekvens, så for seg at det var
+vanskelig å se forskjell mellom gruppene da utrente ofte få god effekt
+uansett.
+<!-- Du følger QALMRI, noe som kan være bra for å analysere studiene, men f.eks. hypoteser kan kobles til powerberegninger og statistikk under. Finns det muligheter å strukturere rapporten på en annen måte? -->
+
+## Logikk
+
+På bakgrunn av samtlige hypoteser vil studiene gi en styrke til den
+allerede etablerte anbefalingen om at eldre
+må<!-- Bør trene for å...? --> trene styrke [@geirsdottir2012;
+@schott2019; @turpela2017; @vikberg2019; @vincent2002]. I tillegg vil
+studiene gjøre det lettere å gi gode anbefalinger da de løser noen
+praktiske spørsmål [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Vikeberg et al. (2019) foreslår at en enkel
+form for styrketrening som man kan gjøre hjemme gir den gunstige
+effekten av styrketrening<!-- Hvilken er den gunstige effekten? -->.
+Dette vil da gjøre styrketreningseffekten mer oppnålig å nå for alle, og
+ikke bare de som trener på treningssenter, som er lett å tenke
+[@vikberg2019].
 
  
 
-Logikk
+## Metode
 
-På bakgrunn av samtlige hypoteser vil studiene gi
-en styrke til den allerede etablerte anbefalingen om at eldre må trene styrke [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. I tillegg vil studiene gjøre det lettere å gi gode anbefalinger da de løser noen praktiske spørsmål [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Vikeberg et al. (2019) foreslår at en enkel form for styrketrening som man kan gjøre hjemme gir den gunstige effekten av styrketrening. Dette vil
-da gjøre styrketreningseffekten mer oppnålig å nå for alle, og ikke bare de som trener på treningssenter, som er lett å tenke [@vikberg2019].
+<!-- Dette avsnittet er bra. Fint med referanse Hulley. Men som nevnt over, muligens kan en del skrives sammen med problemstillingen i studien, f.eks. powerberegninger?  -->
 
- 
+Fire av studiene var RTC-studier hvor det var en, to eller tre
+intervensjonsgrupper og en kontrollgruppe [@schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Hvem som var i hvilke grupper, ble
+randomisert tilfeldig. Antallet i gruppene var ca. likt fordelt i
+intervensjon og kontroll med unntak av Vincent et al. (2002). Ca. likt
+vil si at det stort sett var fler i de gruppene det krevde mest av, men
+man så også at det var der det var mest frafall, så ved studieslutt var
+det så å si utlignet [@schott2019; @turpela2017; @vikberg2019]. I
+Vincent et al. (2002) var det større forskjell på kontroll og
+intervensjon (16 i kontroll, 24 og 22 i intervensjon) uten at det blir
+opplyst noen grunn til det. Å ha en blokkrandomisering som de tre andre
+nevnt over, ville gitt studien et styrket design [@hulley2013, s.
+146].<!-- Hvorfor, her ønsker jeg mer info --> På den andre siden skulle
+man tro at Vincent et al. (2002) hadde en mer attraktiv studie for
+deltagerne da de flere får gratis hjelp til å komme i gang med
+trening.<!-- Men dette var ikke problemstillingen? -->
 
-Metode
+Da dette er studier som ser på trening er «blinding» vanskelig, dermed
+nevnte studiene heller ikke noe om dette [@geirsdottir2012; @schott2019;
+@turpela2017; @vikberg2019; @vincent2002]. Det er likevel gunstig for å
+sikre forskingsfusk at det er forskjellig forskningspersonell<!--  -->
+som gjør tester og følger opp trening [@hulley2013, s. 148-149].
 
-Fire av studiene var RTC-studier
-hvor det var en, to eller tre intervensjonsgrupper og en kontrollgruppe [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Hvem som
-var i hvilke grupper, ble randomisert tilfeldig. Antallet i gruppene var ca. likt fordelt i intervensjon og kontroll med unntak av Vincent et al. (2002). Ca.
-likt vil si at det stort sett var fler i de gruppene det krevde mest av, men man
-så også at det var der det var mest frafall, så ved studieslutt var det så å si
-utlignet [ @schott2019; @turpela2017; @vikberg2019]. I Vincent et al. (2002) var det større forskjell på kontroll og intervensjon (16 i kontroll, 24 og 22 i intervensjon) uten at det blir opplyst noen grunn til det. Å ha en blokkrandomisering som de tre andre nevnt over, ville gitt studien et styrket design [@hulley2013, s. 146]. På den andre siden skulle man tro
-at Vincent et al. (2002) hadde en mer attraktiv studie for deltagerne da de
-flere får gratis hjelp til å komme i gang med trening.
-
-Da dette er studier som ser
-på trening er «blinding» vanskelig, dermed nevnte studiene heller ikke noe om dette [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Det er likevel gunstig for å sikre forskingsfusk at det er forskjellig forsingspersonell som gjør tester og følger opp trening [@hulley2013, s. 148-149].
-
-Geirsdottir et al. (2012) var en klinisk studie uten kontrollgruppe, de hadde altså en stor gruppe (265 kvinner og menn) som trente samme styrketreningsprogrammet. At de ikke hadde kontrollgruppe innrømmet studiegruppen selv at var en svakhet [@geirsdottir2012]. Samtidig poengterte de at eldre mennesker ikke kan forvente en økning i styrke, muskelmasse og muskelfunksjon uten å trene og sånn sett mente de at det var nok å sammenligne med testresultat ved start [@geirsdottir2012]. Det er mulig å forstå argumentasjonen til Geirsdottir et al. (2012) når de i tillegg har såpass mange deltagere som de har. Samtidig hadde en definert kontrollgruppe gjort studien sterkere som en studie som skulle finne ut av noe [@hulley2013, s. 87]. Studien vil gå under kategorien
-Case-serie som er mer egnet til å se på karakteristika og i denne sammenhengenav styrketrening på eldre [@hulley2013, s. 87]. Noe de også i en viss grad gjorde når resultatet av spørreskjema om livskvalitet var noe av det viktigste [@geirsdottir2012]. Denne karakteristikk-egenskapen
+Geirsdottir et al. (2012) var en klinisk studie uten kontrollgruppe, de
+hadde altså en stor gruppe (265 kvinner og menn) som trente samme
+styrketreningsprogrammet. At de ikke hadde kontrollgruppe innrømmet
+studiegruppen selv at var en svakhet [@geirsdottir2012]. Samtidig
+poengterte de at eldre mennesker ikke kan forvente en økning i styrke,
+muskelmasse og muskelfunksjon uten å trene og sånn sett mente de at det
+var nok å sammenligne med testresultat ved start [@geirsdottir2012]. Det
+er mulig å forstå argumentasjonen til Geirsdottir et al. (2012) når de i
+tillegg har såpass mange deltagere som de har. Samtidig hadde en
+definert kontrollgruppe gjort studien sterkere som en studie som skulle
+finne ut av noe [@hulley2013, s. 87]. Studien vil gå under kategorien
+Case-serie som er mer egnet til å se på karakteristika og i denne
+sammenhengenav styrketrening på eldre [@hulley2013, s. 87]. Noe de også
+i en viss grad gjorde når resultatet av spørreskjema om livskvalitet var
+noe av det viktigste [@geirsdottir2012]. Denne karakteristikk-egenskapen
 studien hadde kunne nok kommet bedre frem.
 
-Populasjonen som er ønsket å treffe er eldre kvinner
-og menn som var relativt friske [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Ingen av studiene har en eksplisitt definisjon av «eldre», men totalt i studiene var det et aldersspenn på 60-92 og gjennomsnittsalderen i de forskjellige studiene var rundt 70år (flest rett under) [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Den eldre befolkningen er en svært heterogen gruppe, noe som gjør det vanskelig med ekskluderingskriterier. Studiene godtok da det som ble definert som milde sykdommer som ikke påvirker treningen. Unntaket er til en viss grad Vikberg et al. (2019) hvor det ikke var andre inklusjonskretierier enn at de ikke måtte ha sarkopeni. Samtidig kan det tyde på at det var relativt god helse blant deltagerene da de alle var 70 år, ikke hadde sarkopeni og klarete å gjennomføre treningen [@vikberg2019]. Totalt sett treffer studiene godt på populasjonen da alle har et høyt antall deltagere og har kvalifikasjonskriterier som gjør det mulig for «vanlig» eldre folk å være med [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
+Populasjonen som er ønsket å treffe er eldre kvinner og menn som var
+relativt friske [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Ingen av studiene har en eksplisitt
+definisjon av «eldre», men totalt i studiene var det et aldersspenn på
+60-92 og gjennomsnittsalderen i de forskjellige studiene var rundt 70 år
+(flest rett under) [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Den eldre befolkningen er en svært
+heterogen gruppe, noe som gjør det vanskelig med ekskluderingskriterier.
+Studiene godtok da det som ble definert som milde sykdommer som ikke
+påvirker treningen. Unntaket er til en viss grad Vikberg et al. (2019)
+hvor det ikke var andre inklusjonskretierier enn at de ikke måtte ha
+sarkopeni. Samtidig kan det tyde på at det var relativt god helse blant
+deltagerene da de alle var 70 år, ikke hadde sarkopeni og klarete å
+gjennomføre treningen [@vikberg2019]. Totalt sett treffer studiene godt
+på populasjonen da alle har et høyt antall deltagere og har
+kvalifikasjonskriterier som gjør det mulig for «vanlig» eldre folk å
+være med [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019;
+@vincent2002].
 
-Rekruteringen av deltagere ble gjort ved hjelp av brev og annonser med unntak av Schott et
-al. (2019) [@geirsdottir2012; @turpela2017; @vikberg2019; @vincent2002]. Han hentet deltagere fra en treningsgruppe som var etablert på studiestedet [@schott2019].
-Felles for alle studiene var at det va en frivillig deltagelse [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Schott et al. (2019) og Vincent et al. (2002) utrykte et krav om at det måtte være statistisk styrke på 80%.
-Schott et al. (2019) gjorde også et estimat hvor de så at det var behov for 26
-deltagere for å se en signifikant forskjell ved signifikantgrense på 5% når de
-godtok en sannsynlighet på 80% (de inkluderte 32 personer). De andre studiene nevnte ikke noe om statistisk styrke, men basert på antall deltagere skulle man tro at den statistiske styrken også var god der [@geirsdottir2012; @turpela2017; @vikberg2019].
+Rekruteringen av deltagere ble gjort ved hjelp av brev og annonser med
+unntak av Schott et al. (2019) [@geirsdottir2012; @turpela2017;
+@vikberg2019; @vincent2002]. Han hentet deltagere fra en treningsgruppe
+som var etablert på studiestedet [@schott2019]. Felles for alle studiene
+var at det va en frivillig deltagelse [@geirsdottir2012; @schott2019;
+@turpela2017; @vikberg2019; @vincent2002]. Schott et al. (2019) og
+Vincent et al. (2002) utrykte et krav om at det måtte være statistisk
+styrke på 80%. Schott et al. (2019) gjorde også et estimat hvor de så at
+det var behov for 26 deltagere for å se en signifikant forskjell ved
+signifikantgrense på 5% når de godtok en sannsynlighet på 80% (de
+inkluderte 32 personer). De andre studiene nevnte ikke noe om statistisk
+styrke, men basert på antall deltagere skulle man tro at den statistiske
+styrken også var god der [@geirsdottir2012; @turpela2017;
+@vikberg2019].<!-- Dette utsagn kan du vurdere en gang til. Hva bestemmer den statistiske styrken og hvorfor beregner man den? -->
 
-Alle fem studiene hadde pre-post-design
-hvor Scott et al. også i tillegg hadde tester i uke 10/26 og 6 uker etter post-testen i uke 26 [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. I alle studiene ble det gjort idrettsfysiologiskse tester av styrke, men også funksjonelle (gå test, gripe test osv.) [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Geridottir et al. (2012) la som nevnt også en
-del vekt på spørreskjema som ble gitt før og etter intervensjon. Scott et al. (2019) hadde også et spørreskjema, men dette ble bare gitt etter og var en evaluering av treningen. Treningen som ble gjennomført
-av intervensjonsgruppene ble gjort på treningssenter eller treningslokale på studiestedet [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
-Vincent et al. (2002) fikk deltagerne til å sende inn treningsdagbøker for hver økt som det det ble gitt tilbakemelding på. I de fire andre studiene var det trenere eller med kvalifisert kurs eller utdanning som veiledet deltagerne igjennom økten [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019]. Kontrollgruppen ble instruert i å leve som vanlig og ikke trene [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Treningsperiodene var fra 10 uker til 26 uker [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
+Alle fem studiene hadde pre-post-design hvor Scott et al. også i tillegg
+hadde tester i uke 10/26 og 6 uker etter post-testen i uke 26
+[@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019;
+@vincent2002]. I alle studiene ble det gjort idrettsfysiologiskse tester
+av styrke, men også funksjonelle (gå test, gripe test osv.)
+<!-- Hvordan er funksjonelle tester ulikt fra tester av styrke? Kan du presisere slike utsagn? -->
+[@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019;
+@vincent2002]. Geridottir et al. (2012) la som nevnt også en del vekt på
+spørreskjema som ble gitt før og etter intervensjon. Scott et al. (2019)
+hadde også et spørreskjema, men dette ble bare gitt etter og var en
+evaluering av treningen. Treningen som ble gjennomført av
+intervensjonsgruppene ble gjort på treningssenter eller treningslokale
+på studiestedet [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Vincent et al. (2002) fikk deltagerne til å
+sende inn treningsdagbøker for hver økt som det det ble gitt
+tilbakemelding på. I de fire andre studiene var det trenere eller med
+kvalifisert kurs eller utdanning som veiledet deltagerne igjennom økten
+[@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019].
+Kontrollgruppen ble instruert i å leve som vanlig og ikke trene
+[@schott2019; @turpela2017; @vikberg2019; @vincent2002].
+Treningsperiodene var fra 10 uker til 26 uker [@geirsdottir2012;
+@schott2019; @turpela2017; @vikberg2019; @vincent2002].
 
-Studiene hadde som nevnt som mål å finne ut hvordan eldre bør trene og hvilke effekter det er av styrketrening [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. For å finne ut dette ble det sett på forskjellige variabler for styrke, kroppssammensetning
-(spesielt fettfri masse), muskelstørrelse, men også variabler som skulle
-reflektere dagligdagse gjøremål [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Vincent et al. (2002) la for eksempel en del vekt på en trappetes. Dette er viktig da noe av hovedgrunnen for å trene styrke for eldre nettopp er å mestre dagligdagse gjøre mål [@vincent2002].
+Studiene hadde som nevnt som mål å finne ut hvordan eldre bør trene og
+hvilke effekter det er av styrketrening [@geirsdottir2012; @schott2019;
+@turpela2017; @vikberg2019; @vincent2002]. For å finne ut dette ble det
+sett på forskjellige variabler for styrke, kroppssammensetning (spesielt
+fettfri masse), muskelstørrelse, men også variabler som skulle
+reflektere dagligdagse gjøremål [@geirsdottir2012; @schott2019;
+@turpela2017; @vikberg2019; @vincent2002]. Vincent et al. (2002) la for
+eksempel en del vekt på en trappetes<!-- ? trappetest? -->. Dette er
+viktig da noe av hovedgrunnen for å trene styrke for eldre nettopp er å
+mestre dagligdagse gjøre mål [@vincent2002].
 
-I analysen av testene og får å gjøre konklusjoner ble det brukt forskjellige statistiske tester. I tre av studiene
-hvor det var en eller to grupper ble brukt paret t-test får så se forskjell
-innad i gruppene [@geirsdottir2012; @vikberg2019; @vincent2002]. Vincent et al. (2002) brukte ANCOVA for å se forskjell innad i gruppe og la
-da også inn effekten av tid. Turpela et al. (2017) brukte her en-veis-ANOVA. For å se på forandring i gruppene ble det brukt uavhengig t-test og ANCOVA hvor man også kunne se på effekten av tid og enveis gjentatte målinger [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Schott et al. (2019) brukte også MANCOVA for å gjøre statistikk på variablene som ble mål flere enn 2 ganger og på spørreskjammaet han brukte. Geirsdottir et al. (2012) brukte Wilconxon's test for analyse av spørreskjemaet sitt. Tre av studiene brukte også post hoc tester som gir et mer robust resultat [@schott2019; @turpela2017; @vincent2002]. Alle hadde signifikantgrense ved P = 5% med unntak av en ANCOVA-test Vikberg et al. (2019) som gjorde en interaksjon mellom kjønn intervensjon, hvor P = 10% [@geirsdottir2012; @schott2019; @turpela2017; @vincent2002].  
+I analysen av testene og får å gjøre konklusjoner ble det brukt
+forskjellige statistiske tester. I tre av studiene hvor det var en eller
+to grupper ble brukt paret t-test får så se forskjell innad i gruppene
+[@geirsdottir2012; @vikberg2019; @vincent2002]. Vincent et al. (2002)
+brukte ANCOVA for å se forskjell innad i gruppe og la da også inn
+effekten av
+tid<!-- Er det mulig å nærmere presisere modellen som ble brukt? -->.
+Turpela et al. (2017) brukte her en-veis-ANOVA. For å se på forandring i
+gruppene ble det brukt uavhengig t-test og ANCOVA hvor man også kunne se
+på effekten av tid og enveis gjentatte målinger [@schott2019;
+@turpela2017; @vikberg2019; @vincent2002]. Schott et al. (2019) brukte
+også MANCOVA for å gjøre statistikk på variablene som ble mål flere enn
+2 ganger og på spørreskjammaet han brukte. Geirsdottir et al. (2012)
+brukte Wilconxon's test for analyse av spørreskjemaet sitt. Tre av
+studiene brukte også post hoc tester som gir et mer robust resultat
+[@schott2019; @turpela2017;
+@vincent2002]<!-- Hva mener du med mer robust resultat? -->. Alle hadde
+signifikantgrense ved P = 5% med unntak av en ANCOVA-test Vikberg et al.
+(2019) som gjorde en interaksjon mellom kjønn intervensjon, hvor P = 10%
+[@geirsdottir2012; @schott2019; @turpela2017;
+@vincent2002].<!-- Hva betyr dette for analysene -->  
 
  
 
-Resultat
+## Resultat
 
-Tre av studeiene studiene, som sammenlignet intervensjon mot kontroll, ble det ikke sett forskjell på muskelmasse, men Vikberg et al. (2019) fant forskjell i muskelmasse [@schott2019; @turpela2017; @vincent2002]. Vikberg et al. (2019) fant ikke forskjell i styrke fra kontrollgruppen, men de gjorde de tre andre [@schott2019; @turpela2017; @vincent2002]. På funksjonell styrke gav alle studiene positiv effekt på funksjonelle
-tester [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. I de studiene som sammenlignet flere treningsprotokoller var det liten forskjell mellom det forskjellige treningsprotokollene, men alle skilte seg fra kontrollgruppen [@schott2019; @turpela2017; @vikberg2019; @vincent2002]. Geirsdottir et al. (2012) fant en liten forbedring av livskvalitet. Alt i alt greide de delvis å gi et positivt svar på hypotesen [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
+Tre av studiene, som sammenlignet intervensjon mot kontroll, ble det
+ikke sett forskjell på muskelmasse, men Vikberg et al. (2019) fant
+forskjell i muskelmasse [@schott2019; @turpela2017; @vincent2002].
+Vikberg et al. (2019) fant ikke forskjell i styrke fra kontrollgruppen,
+men de gjorde de tre andre [@schott2019; @turpela2017; @vincent2002]. På
+funksjonell styrke gav alle studiene positiv effekt på funksjonelle
+tester [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019;
+@vincent2002]. I de studiene som sammenlignet flere treningsprotokoller
+var det liten forskjell mellom det forskjellige treningsprotokollene,
+men alle skilte seg fra kontrollgruppen [@schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Geirsdottir et al. (2012) fant en liten
+forbedring av livskvalitet. Alt i alt greide de delvis å gi et positivt
+svar på hypotesen [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002].
 
  
 
-Interferens
+## Interferens
 
-Alle studiene konkludere med at styrketrening fungerte [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. For å oppsummere anbefalingene, er det nok å trene styrke 1-2 gagner i uken, så lenge det er helkroppsøkt [@turpela2017; @vikberg2019].
-En ytterlig effekt vil man få om man trener med frivekter, spesielt på ben og
-triceps, som er viktige muskelgrupper for eldre [@schott2019]. Det er også nok å gjøre 13 rep på 50% 1RM [@vincent2002]. Antall serier er ikke sett på, men basert på studiene burde 1-2 være nok [@geirsdottir2012; @schott2019; @turpela2017]. Det kommer også fram at all trening som ble sett på gav en effekt [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Treningen vil vedlikeholde muskelmassen din, øke styrken din, gjøre praktiske gjøremål lettere og det vil
-kunne øke livskvaliteten din [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002]. Denne konklusjonen og anbefalingen gjelder for relativet friske eldre mennesker som ikke er vant til å trene og som har en lav muskelmasse, dog ikke kritisk lav [@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019; @vincent2002].
+<!-- Muligens kan dette skrives sammen med resultatene?  -->
 
-Videre forskning
+Alle studiene konkludere med at styrketrening fungerte
+[@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019;
+@vincent2002]. For å oppsummere anbefalingene, er det nok å trene styrke
+1-2 gagner i uken, så lenge det er helkroppsøkt [@turpela2017;
+@vikberg2019]. En ytterlig effekt vil man få om man trener med
+frivekter, spesielt på ben og triceps, som er viktige muskelgrupper for
+eldre [@schott2019]. Det er også nok å gjøre 13 rep på 50% 1RM
+[@vincent2002]. Antall serier er ikke sett på, men basert på studiene
+burde 1-2 være nok [@geirsdottir2012; @schott2019; @turpela2017]. Det
+kommer også fram at all trening som ble sett på gav en effekt
+[@geirsdottir2012; @schott2019; @turpela2017; @vikberg2019;
+@vincent2002]. Treningen vil vedlikeholde muskelmassen din, øke styrken
+din, gjøre praktiske gjøremål lettere og det vil kunne øke
+livskvaliteten din [@geirsdottir2012; @schott2019; @turpela2017;
+@vikberg2019; @vincent2002]. Denne konklusjonen og anbefalingen gjelder
+for relativet friske eldre mennesker som ikke er vant til å trene og som
+har en lav muskelmasse, dog ikke kritisk lav [@geirsdottir2012;
+@schott2019; @turpela2017; @vikberg2019; @vincent2002].
+
+## Videre forskning
 
 Det er enda ikke veldig tydelig hvilke treningsprogram som gir god
-effekt på bedret funksjonsevne [@turpela2017]. Schott et al. (2019) foreslår at studeier med frivekter kan være løsningen. I tillegg burde man gjøre studier hvor man kontrollerer proteininntaket hos eldre da dette kan være så lavt at det påvirker styrkefremgangen [@turpela2017].
+effekt på bedret funksjonsevne [@turpela2017]. Schott et al. (2019)
+foreslår at studeier med frivekter kan være løsningen. I tillegg burde
+man gjøre studier hvor man kontrollerer proteininntaket hos eldre da
+dette kan være så lavt at det påvirker styrkefremgangen [@turpela2017].
 
  
 
 Tabell 1. Oppsummering av artiklene
 
-+--------------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Studie             | Studiespørsmål                                                                           | Hypoteser                                                                         | Logikk                                                                         | Metode                                                                                    | Resultat                                                                          | Interferes                                                                              |
-+====================+==========================================================================================+===================================================================================+================================================================================+===========================================================================================+===================================================================================+=========================================================================================+
-| [@turpela2017]     | Hvordan                                                                                  | Hypotese:                                                                         | Det                                                                            | 4                                                                                         | Ikke                                                                              | Sunne                                                                                   |
-|                    | påvirker treningsfrekvensen muskelstyrke, muskelmasse og funksjonell                     | To til tre treninger i uken er bedre enn en trening.                              | vil bli enklere å gi klare råd om hvor ofte eldre bør trene styrke for å oppnå | grupper basert på antall treninger i uken: ingen økter, 1 økt, 2 økter og 3               | sammenheng mellom treningsfrekvens og ganghastighet eller kroppssammensetning.    | eldre vil ha en gunstig effekt av å trene lavfrekvens helkropps styrketrening           |
-|                    | kapasitet hos utrente eldre mennesker?                                                   |                                                                                   | treningseffekt.                                                                | økter. Intervensjonsperioden var 6 måneder med 3 måneder tilvenning i forkant.            | Alle skilte seg fra kontrollgruppen Dose-respons i forhold til 1RM og dynamisk    | (1-2 ganger i uken).                                                                    |
-|                    |                                                                                          | Alternativ                                                                        |                                                                                | Styrketester og funksjonell kapasitet ble testet før og etter. Treningsøktene             | styrke (i treningsapparat)                                                        |                                                                                         |
-|                    |                                                                                          | hypotese: Utrente vil ha god effekt uansett og da gjøre forskjellen på vanskelig  |                                                                                | var tradisjonell tung og eksplosiv trening. 106 kvinner og menn (64-75 år) som            |                                                                                   |                                                                                         |
-|                    |                                                                                          | å se.                                                                             |                                                                                | var friske med unntak «normale» alderssjukdommer.                                         |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                |                                                                                           |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | Ble                                                                                       |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | brukt en-veis-ANOVA og en-veis-ANOVA med gjentatte målinger                               |                                                                                   |                                                                                         |
-+--------------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| [@schott2019]      | Studien                                                                                  | Begge                                                                             | Vil                                                                            | 32                                                                                        | Begge                                                                             | Trening                                                                                 |
-|                    | hadde to formål:                                                                         | gruppene vil ha en fremgang i styrke, men gruppen som trener med frivekter        | gjøre det lettere å gi treingsanbefalinger for godt fungerende eldre           | friske kvinner og menn mellom 60 og 86 år ble fordelt i to grupper hvor den               | gruppene økte i alle øvelser og gjorde det bedre på dynamiske styrketester. For   | både med frivekter og maskin gir god styrkeeffekt, men frivektstrening gir              |
-|                    |                                                                                          | vil få et bedre resultat sammenlignet med gruppen som trente med treningsapparat. |                                                                                | ene trente med frivekter, mens den andre trente med apparat.                              | triceps og ben var det større effekt av å trene med frivekter. Frivektstrening    | ytterlige effekt på ben og triceps. Disse to muskelgruppene er viktige for å            |
-|                    | 1.Sammenligne                                                                            |                                                                                   |                                                                                |                                                                                           | var mer motiverende.                                                              | forebygge fall og i dagliglivet, frivektstrening er derfor å anbefale for eldre         |
-|                    | effekten av intensiv frivektstrening med apparattrening hos godt fungerende eldre        |                                                                                   |                                                                                | Det                                                                                       |                                                                                   | som er godt fungerende.                                                                 |
-|                    | mennesker.                                                                               |                                                                                   |                                                                                | ble gjennomført to treninger i uken hvor øvelsene ble gjort i 3 sett og 10-12             |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | repetisjoner (10RM). Alle økter ble avsluttet med 20 min utholdenhetstrening.             |                                                                                   |                                                                                         |
-|                    | 2.                                                                                       |                                                                                   |                                                                                | Testing av styrke og utholdenhet ble gjort ved start, 10 uker, 26 uker og 6               |                                                                                   |                                                                                         |
-|                    | Se om intensiv trening med frivekter er gjennomførbart på denne gruppen                  |                                                                                   |                                                                                | uker etter intervensjon (uten trening). Det ble også utfylt spørreskjema                  |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | etter intervensjon. Statistikk ble gjort ved uavhengig t-test, paret t-test,              |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | MANCOVA, Cohens d og Pearsons korrelasjon.                                                |                                                                                   |                                                                                         |
-+--------------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| [@vikberg2019]     | Effekten                                                                                 | Styrketreningen                                                                   | Eldre                                                                          | 70                                                                                        | Det                                                                               | Styrketrening                                                                           |
-|                    | av 10-ukers trening med enkle styrkeøvelser og lite utstyr ledet av instruktør           | vil gi positiv effekt på funksjonell styrke                                       | kan på en enkel måte få god effekt av styrketrening.                           | kvinner og menn med presarkopeni ble fordelt i kontroll (36) og                           | var økning i styrke fra post til pre hos intervensjonsgruppen, men de skilte      | med enkelt utstyr som man kan gjøre nesten hvor som helst er effektivt for å            |
-|                    | på personer med presarkopeni. Hovedspørsmålene er om treningen gir effekt på funksjonell |                                                                                   |                                                                                | intervensjonsgruppe (34). Intervensjonsgruppen trente tre gruppetreninger i               | seg ikke fra kontroll. Kroppssammensetning var bedret innad i gruppen og i        | hindre tap av muskelstyrke og øke muskelmasse for eldre med presarkopeni                |
-|                    | styrke og om det påvirker kroppssammensetningen                                          |                                                                                   |                                                                                | uken i 10 uker. Det var ingen tydelige ekskluderingskriterier. Treningene var             | forhold til kontroll.                                                             |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | helkroppsøkter med enkle øvelser. Intensiteten skulle ligge på RPE mellom 6               |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | og 7 (skala 1-10). Det ble gjort et testbatteri før og etter bestående av funksjonelle    |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | tester i tillegg til tester av kroppssammensetning. Paret T-test ble brukt                |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | for å se forskjell innad i gruppene. ANCOVA ble brukt få se forskjell mellom              |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | gruppene.                                                                                 |                                                                                   |                                                                                         |
-+--------------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| [@geirsdottir2012] | Hva                                                                                      | Styrketreningen                                                                   | Styrketrening                                                                  | 265                                                                                       | Det                                                                               | 12                                                                                      |
-|                    | er styrketreningseffekten på eldre mennesker, spesielt med tanke på helse                | vil gi god effekt på muskelmassen og styrken som igjen vil øke helse relatert     | vil gi høyere livskvalitet hos eldre                                           | friske kvinner og menn mellom 65 og 92 år gikk igjennom et 12 ukers                       | var en økning i muskelmasse, styrke og funksjonell kapasitet. Det var en          | uker med styrketrening vil gi god effekt på styrke, kroppssammensetning og muskelmasse. |
-|                    | relatert til livskvalitet, men også styrke, kroppssammensetning og                       | til livskvalitet.                                                                 |                                                                                | treningsprogram med tre økter i uken med. Øktene var helkroppsprogram (3 sett,            | liten, men signifikant økning i livskvalitet                                      | Dette vil igjen gi bedre livskvalitet. Ved styrketrening vil en også hindre             |
-|                    | funksjonell kapasitet                                                                    |                                                                                   |                                                                                | 6-8 rep på 75-80% av 1RM per øvelse). Motstanden ble økt 5-10% hver uke. Før og           |                                                                                   | fallet i muskelstyrke og muskelmasse.                                                   |
-|                    |                                                                                          |                                                                                   |                                                                                | etter ble det testet styrke, kroppssammensetning, funksjonell styrke og tatt spørreskjema |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | om livskvalitet. Statistikk mellom de som droppet ut og de andre ble                      |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | analysert ved uavhengig t-test. Paret t-test ble brukt for å se på forskjell mellom       |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | pre og post. Wilcoxon test ble brukt for å se på pre og post spørreskjema. Persons        |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | og Spearmans r ble brukt for å se på korrelasjoner mellom spørreskjemavariabler           |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | og kroppssammensetning, styrke og funksjon.                                               |                                                                                   |                                                                                         |
-+--------------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| [@vincent2002]     | Er                                                                                       | Styrketrening                                                                     | Man                                                                            | 62                                                                                        | Begge                                                                             | Eldre                                                                                   |
-|                    | det forskjell på treningseffekten av å trene høyere vekt og lavere antall repetisjoner   | med lavere vekt og flere repetisjoner fungerer like bra som høy vekt og få        | kan anbefale trening som oppleves lettere og som er mindre skadeutsatt.        | Friske kvinner og menn mellom 60 og 83 år trenete eller var i kontroll i 26               | treningsgruppene fikk økning i muskelstyrke og muskelutholdenhet, samt i          | friske mennesker kan få like godt resultat med 13 rep på 50% av 1 RM, 8 rep             |
-|                    | og lavere vekt og flere repetisjoner hos eldre mennesker                                 | repetisjoner.                                                                     |                                                                                | uker. De som trente, trente enten 50% av 1RM \*13 rep eller 80% av 1RM 8 rep i            | trappetesten i forhold til kontroll, men ingen forskjell mellom treningsgruppene. | på 80% av 1RM. Dette gjør styrketrening enklere i tillegg til lavere skaderisiko.       |
-|                    |                                                                                          |                                                                                   |                                                                                | en serie per treningsapparat (volum blir ca. det samme for begge). Basert på              |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | borgs skala (6-20), ble det gjort økninger i vekt på treningen. Før og etter              |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | perioden ble det testet kroppssammensetning, diet, styrke, utholdende styrke              |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | og trappetest. ANOVA ble brukt for å se forskjell innad og mellom gruppene over           |                                                                                   |                                                                                         |
-|                    |                                                                                          |                                                                                   |                                                                                | tid. For de endelige resultatet ble ANCOVA brukt for å se på forskjeller                  |                                                                                   |                                                                                         |
-+--------------------+------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------+
++---+-----------+----------+---------+-----------+----------+----------+
+| S | Studi     | H        | Logikk  | Metode    | Resultat | In       |
+| t | espørsmål | ypoteser |         |           |          | terferes |
+| u |           |          |         |           |          |          |
+| d |           |          |         |           |          |          |
+| i |           |          |         |           |          |          |
+| e |           |          |         |           |          |          |
++===+===========+==========+=========+===========+==========+==========+
+| [ | Hvordan   | H        | Det vil | 4 grupper | Ikke     | Sunne    |
+| @ | påvirker  | ypotese: | bli     | basert på | sa       | eldre    |
+| t | treningsf | To til   | enklere | antall    | mmenheng | vil ha   |
+| u | rekvensen | tre      | å gi    | treninger | mellom   | en       |
+| r | musk      | t        | klare   | i uken:   | trenings | gunstig  |
+| p | elstyrke, | reninger | råd om  | ingen     | frekvens | effekt   |
+| e | mu        | i uken   | hvor    | økter, 1  | og       | av å     |
+| l | skelmasse | er bedre | ofte    | økt, 2    | gangh    | trene    |
+| a | og        | enn en   | eldre   | økter og  | astighet | lav      |
+| 2 | fu        | trening. | bør     | 3 økter.  | eller    | frekvens |
+| 0 | nksjonell |          | trene   | Int       | krop     | h        |
+| 1 | kapasitet | Al       | styrke  | ervensjon | pssammen | elkropps |
+| 7 | hos       | ternativ | for å   | sperioden | setning. | styrk    |
+| ] | utrente   | h        | oppnå   | var 6     | Alle     | etrening |
+|   | eldre     | ypotese: | t       | måneder   | skilte   | (1-2     |
+|   | m         | Utrente  | renings | med 3     | seg fra  | ganger i |
+|   | ennesker? | vil ha   | effekt. | måneder   | kontrol  | uken).   |
+|   |           | god      |         | t         | lgruppen |          |
+|   |           | effekt   |         | ilvenning | Dose     |          |
+|   |           | uansett  |         | i         | -respons |          |
+|   |           | og da    |         | forkant.  | i        |          |
+|   |           | gjøre    |         | Sty       | forhold  |          |
+|   |           | for      |         | rketester | til 1RM  |          |
+|   |           | skjellen |         | og        | og       |          |
+|   |           | på       |         | fu        | dynamisk |          |
+|   |           | v        |         | nksjonell | styrke   |          |
+|   |           | anskelig |         | kapasitet | (i       |          |
+|   |           | å se.    |         | ble       | trenings |          |
+|   |           |          |         | testet    | apparat) |          |
+|   |           |          |         | før og    |          |          |
+|   |           |          |         | etter.    |          |          |
+|   |           |          |         | Treni     |          |          |
+|   |           |          |         | ngsøktene |          |          |
+|   |           |          |         | var       |          |          |
+|   |           |          |         | tra       |          |          |
+|   |           |          |         | disjonell |          |          |
+|   |           |          |         | tung og   |          |          |
+|   |           |          |         | eksplosiv |          |          |
+|   |           |          |         | trening.  |          |          |
+|   |           |          |         | 106       |          |          |
+|   |           |          |         | kvinner   |          |          |
+|   |           |          |         | og menn   |          |          |
+|   |           |          |         | (64-75    |          |          |
+|   |           |          |         | år) som   |          |          |
+|   |           |          |         | var       |          |          |
+|   |           |          |         | friske    |          |          |
+|   |           |          |         | med       |          |          |
+|   |           |          |         | unntak    |          |          |
+|   |           |          |         | «normale» |          |          |
+|   |           |          |         | alderssj  |          |          |
+|   |           |          |         | ukdommer. |          |          |
+|   |           |          |         |           |          |          |
+|   |           |          |         | Ble brukt |          |          |
+|   |           |          |         | en-v      |          |          |
+|   |           |          |         | eis-ANOVA |          |          |
+|   |           |          |         | og        |          |          |
+|   |           |          |         | en-v      |          |          |
+|   |           |          |         | eis-ANOVA |          |          |
+|   |           |          |         | med       |          |          |
+|   |           |          |         | gjentatte |          |          |
+|   |           |          |         | målinger  |          |          |
++---+-----------+----------+---------+-----------+----------+----------+
+| [ | Studien   | Begge    | Vil     | 32 friske | Begge    | Trening  |
+| @ | hadde to  | gruppene | gjøre   | kvinner   | gruppene | både med |
+| s | formål:   | vil ha   | det     | og menn   | økte i   | f        |
+| c |           | en       | lettere | mellom 60 | alle     | rivekter |
+| h | 1.Sa      | fremgang | å gi    | og 86 år  | øvelser  | og       |
+| o | mmenligne | i        | trein   | ble       | og       | maskin   |
+| t | effekten  | styrke,  | gsanbef | fordelt i | gjorde   | gir god  |
+| t | av        | men      | alinger | to        | det      | styrk    |
+| 2 | intensiv  | gruppen  | for     | grupper   | bedre på | eeffekt, |
+| 0 | frivek    | som      | godt    | hvor den  | d        | men      |
+| 1 | tstrening | trener   | fun     | ene       | ynamiske | frivekt  |
+| 9 | med       | med      | gerende | trente    | styrk    | strening |
+| ] | appar     | f        | eldre   | med       | etester. | gir      |
+|   | attrening | rivekter |         | f         | For      | y        |
+|   | hos godt  | vil få   |         | rivekter, | triceps  | tterlige |
+|   | f         | et bedre |         | mens den  | og ben   | effekt   |
+|   | ungerende | resultat |         | andre     | var det  | på ben   |
+|   | eldre     | samm     |         | trente    | større   | og       |
+|   | m         | enlignet |         | med       | effekt   | triceps. |
+|   | ennesker. | med      |         | apparat.  | av å     | Disse to |
+|   |           | gruppen  |         |           | trene    | muskel   |
+|   | 2.  Se om | som      |         | Det ble   | med      | gruppene |
+|   |           | trente   |         | gj        | fr       | er       |
+|   |  intensiv | med      |         | ennomført | ivekter. | viktige  |
+|   |           | trenings |         | to        | Frivekt  | for å    |
+|   |   trening | apparat. |         | treninger | strening | f        |
+|   |     med   |          |         | i uken    | var mer  | orebygge |
+|   |           |          |         | hvor      | moti     | fall og  |
+|   | frivekter |          |         | øvelsene  | verende. | i        |
+|   |     er    |          |         | ble gjort |          | dagl     |
+|   |     gjenn |          |         | i 3 sett  |          | iglivet, |
+|   | omførbart |          |         | og 10-12  |          | frivekt  |
+|   |     på    |          |         | rep       |          | strening |
+|   |     denne |          |         | etisjoner |          | er       |
+|   |           |          |         | (10RM).   |          | derfor å |
+|   |   gruppen |          |         | Alle      |          | anbefale |
+|   |           |          |         | økter ble |          | for      |
+|   |           |          |         | avsluttet |          | eldre    |
+|   |           |          |         | med 20    |          | som er   |
+|   |           |          |         | min       |          | godt     |
+|   |           |          |         | ut        |          | fun      |
+|   |           |          |         | holdenhet |          | gerende. |
+|   |           |          |         | strening. |          |          |
+|   |           |          |         | Testing   |          |          |
+|   |           |          |         | av styrke |          |          |
+|   |           |          |         | og        |          |          |
+|   |           |          |         | ut        |          |          |
+|   |           |          |         | holdenhet |          |          |
+|   |           |          |         | ble gjort |          |          |
+|   |           |          |         | ved       |          |          |
+|   |           |          |         | start, 10 |          |          |
+|   |           |          |         | uker, 26  |          |          |
+|   |           |          |         | uker og 6 |          |          |
+|   |           |          |         | uker      |          |          |
+|   |           |          |         | etter     |          |          |
+|   |           |          |         | int       |          |          |
+|   |           |          |         | ervensjon |          |          |
+|   |           |          |         | (uten     |          |          |
+|   |           |          |         | trening). |          |          |
+|   |           |          |         | Det ble   |          |          |
+|   |           |          |         | også      |          |          |
+|   |           |          |         | utfylt    |          |          |
+|   |           |          |         | spø       |          |          |
+|   |           |          |         | rreskjema |          |          |
+|   |           |          |         | etter     |          |          |
+|   |           |          |         | inte      |          |          |
+|   |           |          |         | rvensjon. |          |          |
+|   |           |          |         | S         |          |          |
+|   |           |          |         | tatistikk |          |          |
+|   |           |          |         | ble gjort |          |          |
+|   |           |          |         | ved       |          |          |
+|   |           |          |         | uavhengig |          |          |
+|   |           |          |         | t-test,   |          |          |
+|   |           |          |         | paret     |          |          |
+|   |           |          |         | t-test,   |          |          |
+|   |           |          |         | MANCOVA,  |          |          |
+|   |           |          |         | Cohens d  |          |          |
+|   |           |          |         | og        |          |          |
+|   |           |          |         | Pearsons  |          |          |
+|   |           |          |         | kor       |          |          |
+|   |           |          |         | relasjon. |          |          |
++---+-----------+----------+---------+-----------+----------+----------+
+| [ | Effekten  | Styrket  | Eldre   | 70        | Det var  | Styrk    |
+| @ | av        | reningen | kan på  | kvinner   | økning i | etrening |
+| v | 10-ukers  | vil gi   | en      | og menn   | styrke   | med      |
+| i | trening   | positiv  | enkel   | med       | fra post | enkelt   |
+| k | med enkle | effekt   | måte få | pre       | til pre  | utstyr   |
+| b | styr      | på       | god     | sarkopeni | hos      | som man  |
+| e | keøvelser | fun      | effekt  | ble       | inter    | kan      |
+| r | og lite   | ksjonell | av      | fordelt i | vensjons | gjøre    |
+| g | utstyr    | styrke   | styrket | kontroll  | gruppen, | nesten   |
+| 2 | ledet av  |          | rening. | (36) og   | men de   | hvor som |
+| 0 | i         |          |         | i         | skilte   | helst er |
+| 1 | nstruktør |          |         | ntervensj | seg ikke | e        |
+| 9 | på        |          |         | onsgruppe | fra      | ffektivt |
+| ] | personer  |          |         | (34).     | k        | for å    |
+|   | med       |          |         | In        | ontroll. | hindre   |
+|   | pres      |          |         | tervensjo | Kro      | tap av   |
+|   | arkopeni. |          |         | nsgruppen | ppssamme | musk     |
+|   | Hovedsp   |          |         | trente    | nsetning | elstyrke |
+|   | ørsmålene |          |         | tre       | var      | og øke   |
+|   | er om     |          |         | gruppe    | bedret   | mus      |
+|   | treningen |          |         | treninger | innad i  | kelmasse |
+|   | gir       |          |         | i uken i  | gruppen  | for      |
+|   | effekt på |          |         | 10 uker.  | og i     | eldre    |
+|   | fu        |          |         | Det var   | forhold  | med      |
+|   | nksjonell |          |         | ingen     | til      | pres     |
+|   | styrke og |          |         | tydelige  | k        | arkopeni |
+|   | om det    |          |         | ekskl     | ontroll. |          |
+|   | påvirker  |          |         | uderingsk |          |          |
+|   | kro       |          |         | riterier. |          |          |
+|   | ppssammen |          |         | T         |          |          |
+|   | setningen |          |         | reningene |          |          |
+|   |           |          |         | var       |          |          |
+|   |           |          |         | helkr     |          |          |
+|   |           |          |         | oppsøkter |          |          |
+|   |           |          |         | med enkle |          |          |
+|   |           |          |         | øvelser.  |          |          |
+|   |           |          |         | Int       |          |          |
+|   |           |          |         | ensiteten |          |          |
+|   |           |          |         | skulle    |          |          |
+|   |           |          |         | ligge på  |          |          |
+|   |           |          |         | RPE       |          |          |
+|   |           |          |         | mellom 6  |          |          |
+|   |           |          |         | og 7      |          |          |
+|   |           |          |         | (skala    |          |          |
+|   |           |          |         | 1-10).    |          |          |
+|   |           |          |         | Det ble   |          |          |
+|   |           |          |         | gjort et  |          |          |
+|   |           |          |         | te        |          |          |
+|   |           |          |         | stbatteri |          |          |
+|   |           |          |         | før og    |          |          |
+|   |           |          |         | etter     |          |          |
+|   |           |          |         | bestående |          |          |
+|   |           |          |         | av        |          |          |
+|   |           |          |         | fun       |          |          |
+|   |           |          |         | ksjonelle |          |          |
+|   |           |          |         | tester i  |          |          |
+|   |           |          |         | tillegg   |          |          |
+|   |           |          |         | til       |          |          |
+|   |           |          |         | tester av |          |          |
+|   |           |          |         | kr        |          |          |
+|   |           |          |         | oppssamme |          |          |
+|   |           |          |         | nsetning. |          |          |
+|   |           |          |         | Paret     |          |          |
+|   |           |          |         | T-test    |          |          |
+|   |           |          |         | ble brukt |          |          |
+|   |           |          |         | for å se  |          |          |
+|   |           |          |         | forskjell |          |          |
+|   |           |          |         | innad i   |          |          |
+|   |           |          |         | gruppene. |          |          |
+|   |           |          |         | ANCOVA    |          |          |
+|   |           |          |         | ble brukt |          |          |
+|   |           |          |         | få se     |          |          |
+|   |           |          |         | forskjell |          |          |
+|   |           |          |         | mellom    |          |          |
+|   |           |          |         | gruppene. |          |          |
++---+-----------+----------+---------+-----------+----------+----------+
+| [ | Hva er    | Styrket  | Styrke  | 265       | Det var  | 12 uker  |
+| @ | styr      | reningen | trening | friske    | en       | med      |
+| g | ketrening | vil gi   | vil gi  | kvinner   | økning i | styrk    |
+| e | seffekten | god      | høyere  | og menn   | musk     | etrening |
+| i | på eldre  | effekt   | livsk   | mellom 65 | elmasse, | vil gi   |
+| r | m         | på       | valitet | og 92 år  | styrke   | god      |
+| s | ennesker, | musk     | hos     | gikk      | og       | effekt   |
+| d | spesielt  | elmassen | eldre   | igjennom  | fun      | på       |
+| o | med tanke | og       |         | et 12     | ksjonell | styrke,  |
+| t | på helse  | styrken  |         | ukers     | ka       | kro      |
+| t | relatert  | som      |         | trenin    | pasitet. | ppssamme |
+| i | til       | igjen    |         | gsprogram | Det var  | nsetning |
+| r | livs      | vil øke  |         | med tre   | en       | og       |
+| 2 | kvalitet, | helse    |         | økter i   | liten,   | musk     |
+| 0 | men også  | relatert |         | uken med. | men      | elmasse. |
+| 1 | styrke,   | til      |         | Øktene    | sig      | Dette    |
+| 2 | k         | livsk    |         | var       | nifikant | vil      |
+| ] | roppssamm | valitet. |         | helkrop   | økning i | igjen gi |
+|   | ensetning |          |         | psprogram | livs     | bedre    |
+|   | og        |          |         | (3 sett,  | kvalitet | livsk    |
+|   | fu        |          |         | 6-8 rep   |          | valitet. |
+|   | nksjonell |          |         | på 75-80% |          | Ved      |
+|   | kapasitet |          |         | av 1RM    |          | styrk    |
+|   |           |          |         | per       |          | etrening |
+|   |           |          |         | øvelse).  |          | vil en   |
+|   |           |          |         | M         |          | også     |
+|   |           |          |         | otstanden |          | hindre   |
+|   |           |          |         | ble økt   |          | fallet i |
+|   |           |          |         | 5-10%     |          | musk     |
+|   |           |          |         | hver uke. |          | elstyrke |
+|   |           |          |         | Før og    |          | og       |
+|   |           |          |         | etter ble |          | musk     |
+|   |           |          |         | det       |          | elmasse. |
+|   |           |          |         | testet    |          |          |
+|   |           |          |         | styrke,   |          |          |
+|   |           |          |         | kr        |          |          |
+|   |           |          |         | oppssamme |          |          |
+|   |           |          |         | nsetning, |          |          |
+|   |           |          |         | fu        |          |          |
+|   |           |          |         | nksjonell |          |          |
+|   |           |          |         | styrke og |          |          |
+|   |           |          |         | tatt      |          |          |
+|   |           |          |         | spø       |          |          |
+|   |           |          |         | rreskjema |          |          |
+|   |           |          |         | om        |          |          |
+|   |           |          |         | livs      |          |          |
+|   |           |          |         | kvalitet. |          |          |
+|   |           |          |         | S         |          |          |
+|   |           |          |         | tatistikk |          |          |
+|   |           |          |         | mellom de |          |          |
+|   |           |          |         | som       |          |          |
+|   |           |          |         | droppet   |          |          |
+|   |           |          |         | ut og de  |          |          |
+|   |           |          |         | andre ble |          |          |
+|   |           |          |         | analysert |          |          |
+|   |           |          |         | ved       |          |          |
+|   |           |          |         | uavhengig |          |          |
+|   |           |          |         | t-test.   |          |          |
+|   |           |          |         | Paret     |          |          |
+|   |           |          |         | t-test    |          |          |
+|   |           |          |         | ble brukt |          |          |
+|   |           |          |         | for å se  |          |          |
+|   |           |          |         | på        |          |          |
+|   |           |          |         | forskjell |          |          |
+|   |           |          |         | mellom    |          |          |
+|   |           |          |         | pre og    |          |          |
+|   |           |          |         | post.     |          |          |
+|   |           |          |         | Wilcoxon  |          |          |
+|   |           |          |         | test ble  |          |          |
+|   |           |          |         | brukt for |          |          |
+|   |           |          |         | å se på   |          |          |
+|   |           |          |         | pre og    |          |          |
+|   |           |          |         | post      |          |          |
+|   |           |          |         | spør      |          |          |
+|   |           |          |         | reskjema. |          |          |
+|   |           |          |         | Persons   |          |          |
+|   |           |          |         | og        |          |          |
+|   |           |          |         | Spearmans |          |          |
+|   |           |          |         | r ble     |          |          |
+|   |           |          |         | brukt for |          |          |
+|   |           |          |         | å se på   |          |          |
+|   |           |          |         | korr      |          |          |
+|   |           |          |         | elasjoner |          |          |
+|   |           |          |         | mellom    |          |          |
+|   |           |          |         | spø       |          |          |
+|   |           |          |         | rreskjema |          |          |
+|   |           |          |         | variabler |          |          |
+|   |           |          |         | og        |          |          |
+|   |           |          |         | kr        |          |          |
+|   |           |          |         | oppssamme |          |          |
+|   |           |          |         | nsetning, |          |          |
+|   |           |          |         | styrke og |          |          |
+|   |           |          |         | funksjon. |          |          |
++---+-----------+----------+---------+-----------+----------+----------+
+| [ | Er det    | Styrk    | Man kan | 62 Friske | Begge    | Eldre    |
+| @ | forskjell | etrening | a       | kvinner   | trenings | friske   |
+| v | på        | med      | nbefale | og menn   | gruppene | m        |
+| i | trening   | lavere   | trening | mellom 60 | fikk     | ennesker |
+| n | seffekten | vekt og  | som     | og 83 år  | økning i | kan få   |
+| c | av å      | flere    | o       | trenete   | musk     | like     |
+| e | trene     | repe     | ppleves | eller var | elstyrke | godt     |
+| n | høyere    | tisjoner | lettere | i         | og       | resultat |
+| t | vekt og   | fungerer | og som  | kontroll  | mu       | med 13   |
+| 2 | lavere    | like bra | er      | i 26      | skelutho | rep på   |
+| 0 | antall    | som høy  | mindre  | uker. De  | ldenhet, | 50% av 1 |
+| 0 | rep       | vekt og  | skade   | som       | samt i   | RM, 8    |
+| 2 | etisjoner | få       | utsatt. | trente,   | trap     | rep på   |
+| ] | og lavere | repet    |         | trente    | petesten | 80% av   |
+|   | vekt og   | isjoner. |         | enten 50% | i        | 1RM.     |
+|   | flere     |          |         | av 1RM    | forhold  | Dette    |
+|   | rep       |          |         | \*13 rep  | til      | gjør     |
+|   | etisjoner |          |         | eller 80% | k        | styrk    |
+|   | hos eldre |          |         | av 1RM 8  | ontroll, | etrening |
+|   | mennesker |          |         | rep i en  | men      | enklere  |
+|   |           |          |         | serie per | ingen    | i        |
+|   |           |          |         | trenin    | f        | tillegg  |
+|   |           |          |         | gsapparat | orskjell | til      |
+|   |           |          |         | (volum    | mellom   | lavere   |
+|   |           |          |         | blir ca.  | t        | skad     |
+|   |           |          |         | det samme | reningsg | erisiko. |
+|   |           |          |         | for       | ruppene. |          |
+|   |           |          |         | begge).   |          |          |
+|   |           |          |         | Basert på |          |          |
+|   |           |          |         | borgs     |          |          |
+|   |           |          |         | skala     |          |          |
+|   |           |          |         | (6-20),   |          |          |
+|   |           |          |         | ble det   |          |          |
+|   |           |          |         | gjort     |          |          |
+|   |           |          |         | økninger  |          |          |
+|   |           |          |         | i vekt på |          |          |
+|   |           |          |         | t         |          |          |
+|   |           |          |         | reningen. |          |          |
+|   |           |          |         | Før og    |          |          |
+|   |           |          |         | etter     |          |          |
+|   |           |          |         | perioden  |          |          |
+|   |           |          |         | ble det   |          |          |
+|   |           |          |         | testet    |          |          |
+|   |           |          |         | kr        |          |          |
+|   |           |          |         | oppssamme |          |          |
+|   |           |          |         | nsetning, |          |          |
+|   |           |          |         | diet,     |          |          |
+|   |           |          |         | styrke,   |          |          |
+|   |           |          |         | u         |          |          |
+|   |           |          |         | tholdende |          |          |
+|   |           |          |         | styrke og |          |          |
+|   |           |          |         | tr        |          |          |
+|   |           |          |         | appetest. |          |          |
+|   |           |          |         | ANOVA ble |          |          |
+|   |           |          |         | brukt for |          |          |
+|   |           |          |         | å se      |          |          |
+|   |           |          |         | forskjell |          |          |
+|   |           |          |         | innad og  |          |          |
+|   |           |          |         | mellom    |          |          |
+|   |           |          |         | gruppene  |          |          |
+|   |           |          |         | over tid. |          |          |
+|   |           |          |         | For de    |          |          |
+|   |           |          |         | endelige  |          |          |
+|   |           |          |         | r         |          |          |
+|   |           |          |         | esultatet |          |          |
+|   |           |          |         | ble       |          |          |
+|   |           |          |         | ANCOVA    |          |          |
+|   |           |          |         | brukt for |          |          |
+|   |           |          |         | å se på   |          |          |
+|   |           |          |         | fo        |          |          |
+|   |           |          |         | rskjeller |          |          |
++---+-----------+----------+---------+-----------+----------+----------+
 
- Refferanser
+ Referanser
